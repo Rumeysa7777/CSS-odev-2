@@ -1,0 +1,46 @@
+body{
+    background-color:#ffffff;
+    text-align: center;
+}
+
+div{
+    margin-top: 8%;
+}
+
+
+table{
+    
+    width:90%;
+    text-align: center;
+    margin-top: 0%;
+    margin-left:5%;
+    
+}
+
+td{
+    background-color: #eeeeee;
+    text-align: center;
+
+}
+
+td{
+    width:37%;
+    background-color:#7EE5DA ;
+    text-align: center;
+}
+
+
+td{
+    background-color:#70CCC2; 
+    text-align: center;   
+}
+
+
+td{
+    background-color:#62B3AA ;
+}
+
+
+p{
+    text-align: center;
+}
